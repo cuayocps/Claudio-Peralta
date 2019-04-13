@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# Claudio Peralta Millar
 
-You can use the [editor on GitHub](https://github.com/cuayocps/cv/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Developer Engineer at I-Med
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Experiencia
 
-### Markdown
+### I-Med
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Developer Engineer**
 
-```markdown
-Syntax highlighted code block
+__marzo de 2019 - Present__
 
-# Header 1
-## Header 2
-### Header 3
+Chile
 
-- Bulleted
-- List
+### Lemontech
 
-1. Numbered
-2. List
+**Web Application Developer**
 
-**Bold** and _Italic_ and `Code` text
+__abril de 2016 - enero de 2019__
 
-[Link](url) and ![Image](src)
-```
+Chile
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Grupo Arcano Holding
 
-### Jekyll Themes
+**Chief Information Officer**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cuayocps/cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+__mayo de 2015 - marzo de 2016__
 
-### Support or Contact
+### Lemontech
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Web Developer**
+
+__junio de 2010 - abril de 2015__
+
+### Pronto Pago Limitada
+
+**IT System Administrator**
+
+__2008 - junio de 2010__
+
+### NetGlobalis
+
+**Operations**
+
+__2006 - 2008__
