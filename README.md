@@ -8,11 +8,11 @@ Developer Engineer at I-Med
 
 **Technical Leader**
 
-__abril de 2022 - Present__
+_abril de 2022 - Present_
 
 **Developer Engineer**
 
-__marzo de 2019 - Present__
+_marzo de 2019 - Present_
 
 Chile
 
@@ -20,7 +20,7 @@ Chile
 
 **Web Application Developer**
 
-__abril de 2016 - enero de 2019__
+_abril de 2016 - enero de 2019_
 
 Chile
 
@@ -28,22 +28,22 @@ Chile
 
 **Chief Information Officer**
 
-__mayo de 2015 - marzo de 2016__
+_mayo de 2015 - marzo de 2016_
 
 ### Lemontech
 
 **Web Developer**
 
-__junio de 2010 - abril de 2015__
+_junio de 2010 - abril de 2015_
 
 ### Pronto Pago Limitada
 
 **IT System Administrator**
 
-__2008 - junio de 2010__
+_2008 - junio de 2010_
 
 ### NetGlobalis
 
-**Operations**
+**Operador NOC**
 
-__2006 - 2008__
+_2006 - 2008_
