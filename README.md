@@ -6,6 +6,10 @@ Developer Engineer at I-Med
 
 ### I-Med
 
+**Technical Leader**
+
+__abril de 2022 - Present__
+
 **Developer Engineer**
 
 __marzo de 2019 - Present__
